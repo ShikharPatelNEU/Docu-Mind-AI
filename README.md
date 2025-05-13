@@ -21,6 +21,9 @@ DocuMind AI is an intelligent document analysis application that enables users t
 - **Vector Database**: Milvus
 - **RAG Framework**: Agno library for knowledge base creation and agent management
 
+## Architecture Workflow
+![Workflow](https://github.com/ShikharPatelNEU/Docu-Mind-AI/blob/main/documind_ai_flow.png)
+
 ## Setup and Installation
 
 1. Clone this repository
